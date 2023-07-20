@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이파일을 화면에 띄우고 싶어졌어요
-	/WEM-INF/jsp/request/req_ex01.jsp
-	
-	<a href="basic1">basic1번 요청</a>
-	<a href="basic2">basic2번 요청</a>
-	<a href="basic3">basic3번 요청</a>
-	
+	<H3>당신의 생일은 ${year}년 ${month}월 ${day}일</H3>
 </body>
 </html>

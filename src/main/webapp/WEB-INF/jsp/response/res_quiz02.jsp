@@ -7,12 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이파일을 화면에 띄우고 싶어졌어요
-	/WEM-INF/jsp/request/req_ex01.jsp
-	
-	<a href="basic1">basic1번 요청</a>
-	<a href="basic2">basic2번 요청</a>
-	<a href="basic3">basic3번 요청</a>
-	
+
+	<h3>로그인 성공 ${id }님 환영합니다</h3>
+
 </body>
 </html>

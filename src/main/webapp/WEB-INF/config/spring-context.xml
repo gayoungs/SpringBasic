@@ -22,7 +22,13 @@
 	</beans:bean>
 	
 	<!-- controller패키지를 읽어서 @Controller 어노테이션을 빈으로 생성  -->
-	<context:component-scan base-package="com.simple.controller" />
+	<!-- <context:component-scan base-package="com.simple.controller" /> -->
+	
+	<!-- controller패키지를 읽어서 @Controller 어노테이션을 빈으로 생성  -->
+	<context:component-scan base-package="com.simple.*"/>	
+	
+	<!-- 서비스 영역 bean으로 등록 -->
+	<!-- <beans:bean id="service" class="com.simple.service.scoreServiceImpl"/>-->
 	
 	
 	

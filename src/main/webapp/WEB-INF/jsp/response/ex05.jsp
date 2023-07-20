@@ -7,12 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이파일을 화면에 띄우고 싶어졌어요
-	/WEM-INF/jsp/request/req_ex01.jsp
+
+	<h3>모델 어트리뷰트로 넘어온 객체</h3>
 	
-	<a href="basic1">basic1번 요청</a>
-	<a href="basic2">basic2번 요청</a>
-	<a href="basic3">basic3번 요청</a>
-	
+	${xxx.name }<br/>
+	${xxx.age }
+
 </body>
 </html>

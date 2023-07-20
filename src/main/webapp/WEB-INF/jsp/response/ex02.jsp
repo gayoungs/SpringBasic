@@ -7,12 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	이파일을 화면에 띄우고 싶어졌어요
-	/WEM-INF/jsp/request/req_ex01.jsp
-	
-	<a href="basic1">basic1번 요청</a>
-	<a href="basic2">basic2번 요청</a>
-	<a href="basic3">basic3번 요청</a>
-	
+	컨트롤러에서 넘어온값: ${name }<br/>
+	컨트롤러에서 넘어온값: ${date }
+	 
 </body>
 </html>
