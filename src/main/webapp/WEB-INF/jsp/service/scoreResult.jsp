@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h3>점수 등록</h3>
+	<h3>결과</h3>
+	
+	<a href="scoreList">목록으로..</a>
+	
+	
 </body>
 </html>

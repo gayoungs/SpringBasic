@@ -1,8 +1,5 @@
 package com.simple.controller;
 
-
-
-
 import java.util.Date;
 
 import org.springframework.stereotype.Controller;
